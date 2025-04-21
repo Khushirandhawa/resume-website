@@ -39,7 +39,7 @@ The website includes the following sections:
 
 ## Preview
 
-Visit the website: [https://khushir24.github.io/resume-website/](https://khushirandhawa.github.io/resume-website/)
+Visit the website: (https://khushirandhawa.github.io/resume-website/)
 
 ## Setup and Customization
 
